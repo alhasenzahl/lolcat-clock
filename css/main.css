@@ -139,6 +139,7 @@ blockquote {
   margin: -80px 0 100px 0;
   color: #fff;
   font-weight: 700;
+  text-transform: uppercase;
 }
 
 blockquote:before { content: '"'; }
